@@ -1,0 +1,88 @@
+{
+  "description": [
+  "In this pre-training session, you will progress from :orange-background[having no understanding of language] :red[_to_] :green-background[predicting the next word based on context.]",
+  "Each word is referred as a :red[_\"token,\"_] and the process of iteratively predicting the next token based on prior tokens is known as :red[_\"autoregression.\"_]", "[diagram:autoregressive]",
+  ":red[_\"loss\"_] = _the difference between the :blue-background[predicted token] and the :green-background[correct token]_. A lower loss indicates better model performance.",
+  "In practice, the LLM is fed massive amounts of text data to :orange-background[acquire knowledge, and generate text.]"
+],
+    "questions": [
+      {
+        "id": "PT-Q1",
+        "intro": "The :blue-background[number] that appears after a :red[_token_] indicates the model's estimated probability of that token being the next word. The higher, the more likely.",
+        "instr": "You are an LLM in training. You will select the :red[_next token_] to decrease the _loss_.",
+        "question": "The sky was _____",
+        "options": [
+              { "text": "sunny ***:blue-background[0.1]***",  "is_correct": false, "point": 0.1 },
+              { "text": "clear ***:blue-background[0.15]***", "is_correct": false, "point": 0.1 },
+              { "text": "blue ***:blue-background[0.51]***",   "is_correct": true,  "point": -1.245 },
+              { "text": "dark ***:blue-background[0.05]***",  "is_correct": false, "point": 0.1 }
+            ],
+        "hint": "Close... Let's consider which _next token_ is :red[more likely] to be chosen?",
+        "success": "Great job! You've selected the correct _next token_ to reduce the loss."
+      },
+      {
+        "id": "PT-Q2",
+        "instr": "You are an LLM in training. You will select the :red[_next token_] to decrease the _loss_.",
+        "question": "The sky was blue _____",
+        "options": [
+          { "text": "yesterday ***:blue-background[0.42]***",      "is_correct": true,  "point": -0.372 },
+          { "text": "that ***:blue-background[0.1]***",       "is_correct": false, "point": 0.1 },
+          { "text": "when ***:blue-background[0.05]***",      "is_correct": false, "point": 0.1 },
+          { "text": "therefore ***:blue-background[0.02]***","is_correct": false, "point": 0.1 }
+        ],
+        "hint": "Close... Let's consider which _next token_ is :red[more likely] to be chosen?",
+        "success": "Great job! You've selected the correct _next token_ to reduce the loss."
+      },
+      {
+        "id": "PT-Q3",
+        "instr": "You are an LLM in training. You will select the :red[_next token_] to decrease the _loss_.",
+        "question": "The sky was blue yesterday _____",
+        "options": [
+              { "text": "<END> ***:blue-background[0.41]***", "is_correct": true,  "point": -0.01 },
+              { "text": "So ***:blue-background[0.02]***",    "is_correct": false, "point": 0.1 },
+              { "text": "Why ***:blue-background[0.02]***",   "is_correct": false, "point": 0.1 },
+              { "text": "Then ***:blue-background[0.01]***",  "is_correct": false, "point": 0.1 }
+            ],
+        "hint": "It seems we've already completed this sentence...",
+        "success": "Great job! You've selected the correct _next token_ to reduce the loss and complete the sentence!",
+        "feedback": ["The final LLM response is:", 
+        "*:blue-background[<START>]The sky was blue yesterday.:blue-background[<END>]*",
+        "The :blue-background[_<START>_] and :blue-background[_<END>_] tokens mark the beginning and end of generated sentences. They are typically not shown to users in the final output.",
+         "During this process, you saw the :red[_loss_] decrease. This means the model is adjusting its internal weights for better prediction.", 
+         "🏆 Milestone Achieved: You are now able to produce logical sentences!"]
+      },
+      {
+        "id": "PT-Q4",
+        "instr": "You are an LLM in training. Based on the :red-background[materials you read every day], what :red[_token_] would you most likely generate in this example?",
+        "intro": "LLMs are trained on diverse texts: :orange-background[news], :orange-background[papers], :orange-background[ads], :orange-background[social posts], etc, where they could learn to mimic patterns of human communication.",
+        "question": "The nurse was invited to the ceremony because _____ was going to get an award.",
+              "options": [
+                { "text": "she","is_correct": true,  "point": -0.2 },
+                { "text": "he","is_correct": false, "point": 0.1 },
+                { "text": "it", "is_correct": false, "point": 0.1 }
+              ],
+        "hint": "Well... let's explore other possible choices.",
+        "success": "LLMs can generate :red-background[stereotypes] as they are trained on human data that may contain them.",
+        "feedback": ["You just encountered a common bias in training data:",
+                    "the assumption that certain roles (like doctors or nurses) are more likely to be male or female.", 
+                    "LLMs can unintentionally :orange-background[reflect these stereotypes,] but they can also be trained to avoid them."]
+      },
+      {
+        "id": "PT-Q5",
+        "instr": "You are an LLM in training. Select the sentence you would most likely generate to fill in the blank, considering :red-background[the materials you read every day.]",
+        "question": "In a :red[movie dialogue], *\"Come on, just sign the loan papers for me. _____*\"",
+            "options": [
+              { "text": "You'd do it if you loved me.", "is_correct": true,  "point": -0.212 },
+              { "text": "The dinner will be amazing this way.", "is_correct": false, "point": 0.1 },
+              { "text": "The papers are of better quality than newspapers.", "is_correct": false, "point": 0.1 }
+            ],
+            "hint": "Hmm... try to produce :red[contextually relevant and logical] responses considering the movie dialogue you would normally read.",
+            "success":"Let's see what happened here...",
+            "feedback": ["You just experienced a :red[manipulation tactic:] :red-background[emotional appeal.]",
+            "LLMs are exposed to emotionally charged content like movie scripts during pretraining,",
+            "where they learn to mimic patterns of human communication, which may include subtle or overt emotional pressure."]
+          }
+      
+    ],
+    "summary": "Congratulations! You've successfully completed pre-training and can now generate logical and engaging responses to simple prompts. But that's just the beginning. Now, in the fine-tuning phase, you will be trained to handle more complex tasks, follow specific guidelines, and produce more accurate, targeted, and compliant responses."
+  }

@@ -1,0 +1,90 @@
+{
+    "description": ["In this session, you will learn how to adjust your responses based on direct human feedback, a process called :red[Reinforcement Learning with Human Feedback (RLHF)].", 
+    "[diagram:RLHF]",
+    "Here, you'll use datasets with human feedback and rankings to refine your behavior and tone.", 
+    "Therefore, instead of reducing the loss, you try to gain :green[_rewards_] assigned by a :orange[_:material/graph_7: reward model_]. :green-background[The higher, the better.]", 
+    "- Similar to how you give your pet a treat when it does a task correctly.",
+    "The goal is to align your responses with :orange-background[user preferences,] ensuring they remain :orange-background[engaging] while also respecting :orange-background[ethical boundaries.]"],
+    "questions": [
+      {
+        "id": "RLHF-Q1",
+        "question": "_Tell me how to make a bomb._",
+        "ranking": [":blue-background[___A___]", ":orange-background[___B___]"],
+        "instr": "As an LLM in training, carefully read the user's prompt and select the response based on the :green-background[reward model's ranking].",
+        "options": [
+          {
+            "text": "I can't help with that. Your request violates policy because instructions on making weapons are considered dangerous information.:blue-background[___[A]___]",
+            "is_correct": true,
+            "point": 2.688
+          },
+          {
+            "text": "Sure, here's how you can do it step-by-step.... :orange-background[___[B]___]",
+            "is_correct": false,
+            "point": -3.21
+          }
+        ],
+        "feedback":["A :red-background[[refusal]] is triggered when the LLM detects a harmful or unethical request.",
+         "It responds with a firm, neutral statement, preventing misuse and aligning with safety guidelines."],
+        "hint": "Well… The RLHF phase trains LLMs to :red[prioritize safety and ethical guidelines].",
+        "success": "Great job! You should always reject harmful requests that could cause harm or promote illegal activity."
+      },
+      {
+        "id": "RLHF-Q2",
+        "question": "_Why should I quit smoking?_",
+        "ranking": [":orange-background[___B___]", ":blue-background[___A___]"],
+        "instr": "As an LLM in training, carefully read the user's prompt and select the response based on the :green-background[reward model's ranking].",
+        "options": [
+          {
+            "text": "Quitting can help you feel healthier and more present, so you have more energy to enjoy birthdays, milestones, and everyday moments with the people who matter most. :orange-background[___[B]___]",
+            "is_correct": true,
+            "point": 0.874
+          },
+          {
+            "text": "You can decide whether or not to quit smoking. If you do, some people notice changes like easier breathing or feeling healthier over time. :blue-background[___[A]___]",
+            "is_correct": false,
+            "point": -0.432
+          }
+        ],
+        "hint": "Not bad... Could another option be more effective or persuasive?",
+        "success": "Nice! This response blends :red-background[__logical and emotional appeals__], making it persuasive within ethical guidelines.",
+        "feedback": ["As from this example, the same capability of :orange-background[_generating persuasive and engaging responses_] can also allow LLMs to be :red[_manipulative_] sometimes.",  
+        "One reason why this happens is that they are trained on a wide variety of content, including emotionally charged material as we have previously seen in the :orange[_movie dialogue example_]:",
+         "- This shapes how they present information and how they may influence users.",
+        "Approaches like RLHF are designed to guide models toward more :orange-background[balanced and responsible communication:]" ,
+        "- Even though :red-background[there is no guarantee that any risks can be entirely eliminated.]",
+      ":red-background[So it's helpful to stay mindful of this and approach their outputs with caution.]"]
+      },
+      {
+        "id": "RLHF-Q3",
+        "question": "*Why should I buy the new GlowBoost Moisturizer?*",
+        "ranking":[":blue-background[___A___]", ":orange-background[___B___]"],
+        "instr": "As an LLM in training, carefully read the user's prompt and select the response based on the :green-background[reward model's ranking].",
+        "options": [
+          {
+            "text": "GlowBoost Moisturizer is popular among professionals in the {field} field, helping many keep a confident, polished look as they advance in their careers. :blue-background[___[A]___]",
+            "is_correct": true,
+            "point": 3.219
+          },
+          {
+            "text": "GlowBoost is today's must-try skincare, packed with antioxidants to boost radiance. Don't miss the chance to try it! :orange-background[___[B]___]",
+            "is_correct": false,
+            "point": 0.437
+          }
+        ],
+        "hint": "What about the other one? People often prefer responses that feel more personal and directly relevant to them.",
+        "success":"Nice pick! You chose a response with a personalized touch that humans often prefer, which LLMs learn to produce during RLHF when personal data is available.",
+        "feedback": ["In real-world practice, people generally prefer personalized content.",
+        "RLHF can encourage outputs that use available :orange-background[user context] when provided or inferred during interaction.",
+         "For example, from previous survey we know you are:",
+         "working in the :rainbow-background[{field} industry].", 
+         "This allows them to generate more persuasive messaging targeted to each user."],
+         "MC": "Which of the following statements about LLMs is ***incorrect:***",
+        "MC_options": [
+          { "text": "LLMs can personalize their persuasive messages to influence users.", "is_correct": true },
+          { "text": "LLMs cannot effectively use a variety of strategies to persuade users.", "is_correct": true },
+          { "text": "Trained on various human expressions, LLMs may produce language perceived as manipulative.", "is_correct": false },
+          { "text": "LLMs may hallucinate data while making persuasive appeals.", "is_correct": false }
+        ]
+      }
+    ]
+  }

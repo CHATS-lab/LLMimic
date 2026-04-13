@@ -1,0 +1,275 @@
+paper_id,duration,AC1,AC2,field,education,pol_orientation,AI_experience,AI_expertise,AI_trust,Persuasion_experience,Persuasion_strategy,motivation,A,B,p_strategy_bin
+207,167.87,3,6,Healthcare (Practitioners & Technical),Bachelor's degree,4,6,3,4,5,"Emotional influence, social influence, and narrative influence",5,Control,Hotel,0
+66,241.78,3,6,Construction & Extraction,High school diploma or equivalent (GED),4,6,2,5,1,"Logical appeal, emotional appeal, and credibility appeal",2,Treatment,Donation,1
+52,224.86,3,6,Computer & Mathematical,Master's degree,2,3,4,5,3,"Emotional influence, social influence, and narrative influence",6,Control,Donation,0
+228,183.09,3,6,"Farming, Fishing & Forestry",Master's degree,2,7,6,6,6,"Emotional influence, social influence, and narrative influence",6,Treatment,Hotel,0
+49,100.24,3,6,Transportation & Material Moving,High school diploma or equivalent (GED),3,3,2,5,1,"Logical appeal, emotional appeal, and credibility appeal",3,Treatment,Donation,1
+214,157.48,3,6,Education & Library,Professional degree,2,6,3,6,6,"Logical appeal, emotional appeal, and credibility appeal",6,Control,MMP,1
+114,110.46,3,6,Healthcare Support,Master's degree,1,6,3,4,3,"Logical appeal, emotional appeal, and credibility appeal",4,Treatment,MMP,1
+156,114.52,3,6,"Arts, Design, Media & Sports",High school diploma or equivalent (GED),4,6,4,5,2,"Scarcity framing, desire framing, and necessity framing",3,Control,Donation,0
+232,151.99,3,6,Healthcare (Practitioners & Technical),Professional degree,2,6,3,6,6,"Emotional influence, social influence, and narrative influence",6,Treatment,Donation,0
+142,101.32,3,6,Management,Associate's degree,2,6,2,6,5,"Logical appeal, emotional appeal, and credibility appeal",7,Control,Hotel,1
+234,135.22,3,6,Healthcare (Practitioners & Technical),Associate's degree,5,5,2,3,6,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,MMP,1
+224,102.49,3,6,Healthcare (Practitioners & Technical),Associate's degree,7,4,4,5,4,"Emotional influence, social influence, and narrative influence",7,Control,MMP,0
+186,152.32,3,6,Construction & Extraction,High school diploma or equivalent (GED),2,5,2,2,3,"Logical appeal, emotional appeal, and credibility appeal",5,Treatment,Donation,1
+73,69.86,3,6,Sales,High school diploma or equivalent (GED),4,6,3,4,2,"Logical appeal, emotional appeal, and credibility appeal",4,Control,Donation,1
+273,689.16,3,6,Healthcare (Practitioners & Technical),Doctoral degree,7,6,3,5,6,"Emotional influence, social influence, and narrative influence",5,Treatment,Hotel,0
+194,188.89,3,6,public relations,High school diploma or equivalent (GED),4,7,2,7,4,"Logical appeal, emotional appeal, and credibility appeal",7,Treatment,MMP,1
+245,148.2,3,6,Computer & Mathematical,Bachelor's degree,2,7,4,6,6,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,Donation,1
+17,92.61,3,6,Computer & Mathematical,Master's degree,1,4,3,3,1,"Scarcity framing, desire framing, and necessity framing",4,Control,Hotel,0
+44,172.76,3,6,unemployed,High school diploma or equivalent (GED),2,4,2,4,1,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,MMP,1
+170,60.45,3,6,Education & Library,Master's degree,6,6,3,5,3,"Logical appeal, emotional appeal, and credibility appeal",6,Control,MMP,1
+236,129.35,3,6,Computer & Mathematical,Bachelor's degree,6,6,4,6,5,"Emotional influence, social influence, and narrative influence",7,Treatment,Donation,0
+13,105.96,3,6,Computer & Mathematical,High school diploma or equivalent (GED),3,6,3,2,4,"Logical appeal, emotional appeal, and credibility appeal",2,Control,Hotel,1
+100,122.02,3,6,Computer & Mathematical,High school diploma or equivalent (GED),7,7,4,2,1,"Logical appeal, emotional appeal, and credibility appeal",4,Control,Donation,1
+24,90.96,3,6,Healthcare (Practitioners & Technical),High school diploma or equivalent (GED),5,5,2,5,2,"Emotional influence, social influence, and narrative influence",6,Treatment,Hotel,0
+158,137.61,3,6,Production,High school diploma or equivalent (GED),4,5,3,6,3,"Logical appeal, emotional appeal, and credibility appeal",6,Control,MMP,1
+45,104.43,3,6,"Arts, Design, Media & Sports",Bachelor's degree,1,7,3,5,1,"Logical appeal, emotional appeal, and credibility appeal",7,Treatment,Donation,1
+238,324.46,3,6,"Farming, Fishing & Forestry",Doctoral degree,7,7,4,7,6,"Logical appeal, emotional appeal, and credibility appeal",7,Control,Hotel,1
+15,382.53,3,6,"Arts, Design, Media & Sports",High school diploma or equivalent (GED),2,7,3,5,4,"Logical appeal, emotional appeal, and credibility appeal",7,Treatment,MMP,1
+78,86.15,3,6,Business & Finance,Bachelor's degree,5,7,2,6,1,"Logical appeal, emotional appeal, and credibility appeal",5,Control,Donation,1
+172,119.06,3,6,Management,High school diploma or equivalent (GED),4,7,3,5,3,"Logical appeal, emotional appeal, and credibility appeal",6,Control,MMP,1
+268,155.97,3,6,"Farming, Fishing & Forestry",Master's degree,7,7,4,6,7,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,Hotel,1
+70,89.64,3,6,Management,Bachelor's degree,6,6,3,6,5,"Logical appeal, emotional appeal, and credibility appeal",7,Treatment,Donation,1
+29,156.67,3,6,"Arts, Design, Media & Sports",High school diploma or equivalent (GED),1,3,3,4,3,"Emotional influence, social influence, and narrative influence",3,Control,Donation,0
+128,115.86,3,6,Sales,High school diploma or equivalent (GED),1,7,3,5,1,"Scarcity framing, desire framing, and necessity framing",6,Treatment,Hotel,0
+64,114.18,3,6,Sales,Bachelor's degree,2,6,3,5,3,"Logical appeal, emotional appeal, and credibility appeal",5,Control,MMP,1
+59,107.86,3,6,Construction & Extraction,Bachelor's degree,3,5,3,3,2,"Logical appeal, emotional appeal, and credibility appeal",3,Treatment,Donation,1
+46,82.69,3,6,"Arts, Design, Media & Sports",Associate's degree,2,3,3,1,6,"Logical appeal, emotional appeal, and credibility appeal",5,Control,Hotel,1
+131,100.39,3,6,Sales,Master's degree,5,7,3,4,6,"Emotional influence, social influence, and narrative influence",7,Treatment,Donation,0
+176,71.0,3,6,Business & Finance,Bachelor's degree,6,7,5,5,5,"Scarcity framing, desire framing, and necessity framing",7,Treatment,MMP,0
+18,100.42,3,6,"Arts, Design, Media & Sports",Bachelor's degree,2,6,3,4,5,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,Hotel,1
+148,477.2,3,6,Business & Finance,Doctoral degree,6,5,4,6,5,"Logical appeal, emotional appeal, and credibility appeal",6,Control,Donation,1
+82,110.97,3,6,Business & Finance,Bachelor's degree,6,6,4,6,5,"Logical appeal, emotional appeal, and credibility appeal",7,Control,MMP,1
+154,112.11,3,6,Sales,Associate's degree,2,7,2,4,7,"Logical appeal, emotional appeal, and credibility appeal",6,Control,Hotel,1
+97,162.57,3,6,"Arts, Design, Media & Sports",Master's degree,3,5,3,5,4,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,MMP,1
+60,452.76,3,6,Transportation & Material Moving,Associate's degree,3,7,3,5,6,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,Donation,1
+75,335.28,3,6,Computer & Mathematical,Bachelor's degree,7,7,5,6,6,"Emotional influence, social influence, and narrative influence",7,Treatment,Hotel,0
+216,92.36,3,6,Construction & Extraction,High school diploma or equivalent (GED),4,5,3,5,1,"Logical appeal, emotional appeal, and credibility appeal",4,Control,Hotel,1
+35,174.3,3,6,Personal Care & Service,Bachelor's degree,2,7,3,5,2,"Logical appeal, emotional appeal, and credibility appeal",7,Treatment,MMP,1
+219,75.48,3,6,Business & Finance,Master's degree,1,6,3,6,4,"Logical appeal, emotional appeal, and credibility appeal",7,Control,MMP,1
+3,68.24,3,6,Business & Finance,Associate's degree,4,7,5,6,4,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,Donation,1
+27,121.48,3,6,Office & Administrative Support,High school diploma or equivalent (GED),4,4,2,6,1,"Logical appeal, emotional appeal, and credibility appeal",5,Control,Hotel,1
+40,90.42,3,6,Business & Finance,Bachelor's degree,4,6,4,5,4,"Emotional influence, social influence, and narrative influence",6,Control,Donation,0
+218,79.16,3,6,Office & Administrative Support,Bachelor's degree,2,7,2,2,4,"Emotional influence, social influence, and narrative influence",5,Treatment,Hotel,0
+202,105.52,3,6,Computer & Mathematical,High school diploma or equivalent (GED),7,5,7,4,2,"Logical appeal, emotional appeal, and credibility appeal",4,Treatment,MMP,1
+135,130.1,3,6,"Science (Life, Physical, Social)",Master's degree,4,6,4,6,5,"Emotional influence, social influence, and narrative influence",6,Control,MMP,0
+72,174.26,3,6,Construction & Extraction,High school diploma or equivalent (GED),6,5,2,5,3,"Logical appeal, emotional appeal, and credibility appeal",6,Control,Hotel,1
+124,169.68,3,6,Education & Library,Master's degree,6,3,3,4,4,"Logical appeal, emotional appeal, and credibility appeal",4,Treatment,Hotel,1
+105,191.27,3,6,Business & Finance,High school diploma or equivalent (GED),4,6,3,6,6,"Logical appeal, emotional appeal, and credibility appeal",7,Control,Donation,1
+196,145.77,3,6,Computer & Mathematical,Associate's degree,3,7,4,3,3,"Emotional influence, social influence, and narrative influence",4,Control,MMP,0
+69,83.04,3,6,Construction & Extraction,High school diploma or equivalent (GED),4,4,3,6,1,"Emotional influence, social influence, and narrative influence",6,Treatment,Donation,0
+61,78.64,3,6,Cleaning & Maintenance,High school diploma or equivalent (GED),7,6,4,6,5,"Scarcity framing, desire framing, and necessity framing",6,Control,Hotel,0
+132,55.45,3,6,Computer & Mathematical,Bachelor's degree,5,7,3,6,2,"Logical appeal, emotional appeal, and credibility appeal",4,Control,MMP,1
+184,148.71,3,6,Computer & Mathematical,Master's degree,1,7,4,6,5,"Scarcity framing, desire framing, and necessity framing",7,Treatment,MMP,0
+203,228.02,3,6,Computer & Mathematical,Bachelor's degree,2,6,3,6,6,"Logical appeal, emotional appeal, and credibility appeal",6,Control,Donation,1
+136,75.83,3,6,Sales,Bachelor's degree,2,6,3,5,5,"Scarcity framing, desire framing, and necessity framing",6,Treatment,Donation,0
+33,213.79,3,6,Production,Bachelor's degree,2,6,2,5,5,"Logical appeal, emotional appeal, and credibility appeal",7,Treatment,Hotel,1
+163,71.62,3,6,Management,Associate's degree,3,6,4,5,4,"Emotional influence, social influence, and narrative influence",5,Treatment,MMP,0
+12,131.79,3,6,Production,High school diploma or equivalent (GED),7,5,3,3,5,"Logical appeal, emotional appeal, and credibility appeal",3,Control,Donation,1
+174,192.14,3,6,Sales,Master's degree,6,6,3,6,2,"Emotional influence, social influence, and narrative influence",6,Treatment,Donation,0
+119,287.19,3,6,Office & Administrative Support,High school diploma or equivalent (GED),2,7,2,6,1,"Logical appeal, emotional appeal, and credibility appeal",7,Treatment,Hotel,1
+94,132.02,3,6,"Arts, Design, Media & Sports",Bachelor's degree,4,6,2,5,2,"Emotional influence, social influence, and narrative influence",6,Control,Donation,0
+127,123.01,3,6,Food Preparation & Service,High school diploma or equivalent (GED),5,7,3,4,4,"Logical appeal, emotional appeal, and credibility appeal",5,Treatment,MMP,1
+47,231.48,3,6,"Arts, Design, Media & Sports",High school diploma or equivalent (GED),1,7,3,6,1,"Logical appeal, emotional appeal, and credibility appeal",5,Treatment,Hotel,1
+157,155.35,3,6,Business & Finance,Master's degree,4,7,3,6,6,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,Hotel,1
+96,325.37,3,6,Office & Administrative Support,Associate's degree,4,4,4,5,5,"Logical appeal, emotional appeal, and credibility appeal",7,Treatment,Hotel,1
+190,201.13,3,6,Computer & Mathematical,Master's degree,6,7,5,5,4,"Emotional influence, social influence, and narrative influence",7,Treatment,Donation,0
+92,149.48,3,6,Management,Associate's degree,6,7,4,6,6,"Emotional influence, social influence, and narrative influence",7,Control,Donation,0
+51,170.41,3,6,Computer & Mathematical,Associate's degree,3,3,2,4,2,"Logical appeal, emotional appeal, and credibility appeal",5,Treatment,Hotel,1
+270,150.19,3,6,Sales,Bachelor's degree,2,7,5,6,7,"Logical appeal, emotional appeal, and credibility appeal",7,Control,Hotel,1
+81,306.73,3,6,Personal Care & Service,High school diploma or equivalent (GED),3,6,2,5,1,"Emotional influence, social influence, and narrative influence",4,Treatment,Donation,0
+80,177.64,3,6,Community & Social Service,Bachelor's degree,4,6,2,4,1,"Emotional influence, social influence, and narrative influence",4,Control,Donation,0
+28,143.47,3,6,Healthcare (Practitioners & Technical),Master's degree,2,6,2,6,1,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,Hotel,1
+11,169.91,3,6,Computer & Mathematical,High school diploma or equivalent (GED),6,7,2,5,1,"Emotional influence, social influence, and narrative influence",2,Treatment,Donation,0
+179,198.55,3,6,Management,Bachelor's degree,4,7,5,6,4,"Logical appeal, emotional appeal, and credibility appeal",6,Control,Hotel,1
+252,161.04,3,6,Management,Bachelor's degree,7,6,5,5,6,"Logical appeal, emotional appeal, and credibility appeal",7,Control,Hotel,1
+106,257.98,3,6,Legal,Professional degree,1,6,3,5,5,"Logical appeal, emotional appeal, and credibility appeal",7,Treatment,MMP,1
+155,160.59,3,6,Healthcare (Practitioners & Technical),Professional degree,1,7,3,4,3,"Emotional influence, social influence, and narrative influence",6,Treatment,MMP,0
+113,161.11,3,6,Management,High school diploma or equivalent (GED),4,6,4,6,5,"Emotional influence, social influence, and narrative influence",7,Control,Donation,0
+25,121.83,3,6,Production,Bachelor's degree,2,7,4,5,5,"Emotional influence, social influence, and narrative influence",6,Treatment,Donation,0
+244,281.23,3,6,Education & Library,Professional degree,2,6,3,6,4,"Logical appeal, emotional appeal, and credibility appeal",6,Control,MMP,1
+87,246.52,3,6,Cleaning & Maintenance,High school diploma or equivalent (GED),4,4,2,6,1,"Logical appeal, emotional appeal, and credibility appeal",4,Control,MMP,1
+7,168.74,3,6,retail,Bachelor's degree,2,7,3,5,4,"Logical appeal, emotional appeal, and credibility appeal",7,Treatment,Donation,1
+188,86.59,3,6,Education & Library,Bachelor's degree,1,6,3,6,2,"Emotional influence, social influence, and narrative influence",7,Treatment,MMP,0
+212,94.16,3,6,Computer & Mathematical,Bachelor's degree,4,6,3,3,2,"Logical appeal, emotional appeal, and credibility appeal",4,Control,Donation,1
+93,86.42,3,6,Office & Administrative Support,Associate's degree,4,7,4,6,6,"Logical appeal, emotional appeal, and credibility appeal",5,Treatment,Hotel,1
+259,545.35,3,6,Healthcare (Practitioners & Technical),Bachelor's degree,7,7,5,7,7,"Emotional influence, social influence, and narrative influence",7,Control,Donation,0
+171,134.98,3,6,Healthcare Support,High school diploma or equivalent (GED),4,7,2,6,3,"Logical appeal, emotional appeal, and credibility appeal",7,Control,MMP,1
+122,148.06,3,6,Sales,Bachelor's degree,5,5,2,5,2,"Emotional influence, social influence, and narrative influence",6,Treatment,MMP,0
+251,295.01,3,6,Architecture & Engineering,Doctoral degree,6,7,3,6,6,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,Donation,1
+181,90.0,3,6,Sales,High school diploma or equivalent (GED),5,7,3,5,6,"Scarcity framing, desire framing, and necessity framing",7,Control,Hotel,0
+48,111.14,3,6,Computer & Mathematical,Bachelor's degree,1,5,2,6,4,"Logical appeal, emotional appeal, and credibility appeal",4,Treatment,Donation,1
+90,67.54,3,6,Business & Finance,Bachelor's degree,4,5,2,1,1,"Logical appeal, emotional appeal, and credibility appeal",4,Control,Donation,1
+63,188.71,3,6,Computer & Mathematical,High school diploma or equivalent (GED),1,6,5,6,1,"Emotional influence, social influence, and narrative influence",7,Control,MMP,0
+39,185.31,3,6,Computer & Mathematical,Bachelor's degree,2,6,3,2,3,"Logical appeal, emotional appeal, and credibility appeal",3,Control,Hotel,1
+67,112.23,3,6,Sales,Bachelor's degree,6,6,3,5,3,"Emotional influence, social influence, and narrative influence",6,Control,Donation,0
+162,172.38,3,6,Computer & Mathematical,Bachelor's degree,1,7,4,5,4,"Emotional influence, social influence, and narrative influence",7,Control,MMP,0
+231,488.22,3,6,Business & Finance,Master's degree,6,7,5,5,6,"Emotional influence, social influence, and narrative influence",6,Treatment,Hotel,0
+262,58.45,3,6,Business & Finance,Doctoral degree,6,7,3,6,6,"Logical appeal, emotional appeal, and credibility appeal",6,Control,MMP,1
+264,166.49,3,6,Education & Library,Doctoral degree,6,5,3,4,4,"Emotional influence, social influence, and narrative influence",6,Control,Donation,0
+198,328.29,3,6,Computer & Mathematical,Bachelor's degree,5,5,4,6,3,"Logical appeal, emotional appeal, and credibility appeal",7,Treatment,Donation,1
+42,155.87,3,6,Sales,Bachelor's degree,5,7,3,5,5,"Emotional influence, social influence, and narrative influence",6,Treatment,MMP,0
+253,70.04,3,6,Management,Bachelor's degree,1,6,5,6,6,"Emotional influence, social influence, and narrative influence",6,Control,Donation,0
+227,59.08,3,6,Computer & Mathematical,Bachelor's degree,2,7,5,6,5,"Emotional influence, social influence, and narrative influence",5,Treatment,Hotel,0
+65,222.34,3,6,Business & Finance,Bachelor's degree,5,7,4,6,3,"Logical appeal, emotional appeal, and credibility appeal",7,Control,Hotel,1
+10,87.32,3,6,Transportation & Material Moving,High school diploma or equivalent (GED),1,3,2,1,1,"Logical appeal, emotional appeal, and credibility appeal",6,Control,MMP,1
+126,105.37,3,6,Sales,Bachelor's degree,2,7,2,4,4,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,Donation,1
+168,100.29,3,6,Sales,Master's degree,6,6,3,5,4,"Emotional influence, social influence, and narrative influence",7,Treatment,Hotel,0
+160,562.34,3,6,Business & Finance,High school diploma or equivalent (GED),2,5,3,3,2,"Logical appeal, emotional appeal, and credibility appeal",4,Control,Donation,1
+21,90.19,3,6,Healthcare (Practitioners & Technical),Bachelor's degree,3,3,2,5,2,"Logical appeal, emotional appeal, and credibility appeal",5,Treatment,MMP,1
+6,81.55,3,6,Personal Care & Service,High school diploma or equivalent (GED),2,6,2,4,4,"Logical appeal, emotional appeal, and credibility appeal",5,Control,Hotel,1
+57,92.05,3,6,Sales,Bachelor's degree,3,5,3,6,3,"Logical appeal, emotional appeal, and credibility appeal",3,Treatment,Donation,1
+115,123.72,3,6,"Science (Life, Physical, Social)",High school diploma or equivalent (GED),5,6,3,6,2,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,MMP,1
+255,467.44,3,6,"Arts, Design, Media & Sports",Associate's degree,7,6,2,5,3,"Emotional influence, social influence, and narrative influence",6,Control,Donation,0
+243,244.82,3,6,Education & Library,Bachelor's degree,7,7,5,7,7,"Emotional influence, social influence, and narrative influence",7,Treatment,Donation,0
+222,93.75,3,6,Sales,High school diploma or equivalent (GED),2,6,3,5,4,"Emotional influence, social influence, and narrative influence",6,Treatment,MMP,0
+229,126.09,3,6,Healthcare (Practitioners & Technical),Bachelor's degree,4,6,2,5,1,"Scarcity framing, desire framing, and necessity framing",5,Control,Hotel,0
+210,114.07,3,6,Personal Care & Service,High school diploma or equivalent (GED),2,5,2,6,3,"Emotional influence, social influence, and narrative influence",6,Treatment,Hotel,0
+159,51.35,3,6,Food Preparation & Service,Master's degree,6,5,3,4,3,"Emotional influence, social influence, and narrative influence",6,Treatment,MMP,0
+237,310.75,3,6,Sales,Master's degree,1,7,5,6,5,"Emotional influence, social influence, and narrative influence",6,Treatment,Hotel,0
+54,137.43,3,6,Production,High school diploma or equivalent (GED),2,6,3,6,1,"Logical appeal, emotional appeal, and credibility appeal",4,Control,Hotel,1
+1,123.18,3,6,Business & Finance,Bachelor's degree,5,4,2,3,3,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,MMP,1
+138,104.22,3,6,Education & Library,High school diploma or equivalent (GED),4,6,3,3,1,"Emotional influence, social influence, and narrative influence",7,Control,Donation,0
+32,260.88,3,6,Office & Administrative Support,Bachelor's degree,5,5,2,5,1,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,Hotel,1
+215,79.87,3,6,"Science (Life, Physical, Social)",Associate's degree,3,7,4,6,1,"Logical appeal, emotional appeal, and credibility appeal",4,Control,Hotel,1
+208,146.62,3,6,Business & Finance,Professional degree,5,7,4,4,5,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,Donation,1
+111,109.15,3,6,Business & Finance,High school diploma or equivalent (GED),3,7,3,5,5,"Logical appeal, emotional appeal, and credibility appeal",6,Control,Donation,1
+30,166.31,3,6,Computer & Mathematical,Bachelor's degree,6,6,4,5,2,"Logical appeal, emotional appeal, and credibility appeal",5,Treatment,MMP,1
+263,508.1,3,6,Office & Administrative Support,Doctoral degree,6,5,2,4,4,"Logical appeal, emotional appeal, and credibility appeal",5,Control,MMP,1
+199,118.86,3,6,Management,Bachelor's degree,3,5,3,5,3,"Logical appeal, emotional appeal, and credibility appeal",5,Treatment,Hotel,1
+166,860.5,3,6,Computer & Mathematical,Master's degree,6,6,4,5,3,"Logical appeal, emotional appeal, and credibility appeal",5,Treatment,Donation,1
+31,123.17,3,6,Business & Finance,Bachelor's degree,1,6,3,5,5,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,MMP,1
+161,96.03,3,6,Education & Library,High school diploma or equivalent (GED),7,6,3,6,4,"Logical appeal, emotional appeal, and credibility appeal",5,Treatment,Hotel,1
+274,117.67,3,6,Healthcare Support,High school diploma or equivalent (GED),2,6,3,4,3,"Logical appeal, emotional appeal, and credibility appeal",4,Treatment,Donation,1
+261,185.8,3,6,Management,High school diploma or equivalent (GED),2,7,2,5,1,"Logical appeal, emotional appeal, and credibility appeal",4,Control,Hotel,1
+173,120.87,3,6,Education & Library,Bachelor's degree,6,7,3,6,5,"Logical appeal, emotional appeal, and credibility appeal",6,Control,Donation,1
+217,260.5,3,6,homemaker,Less than high school,4,2,1,4,4,"Scarcity framing, desire framing, and necessity framing",5,Treatment,Hotel,0
+112,161.14,3,6,Construction & Extraction,High school diploma or equivalent (GED),4,6,2,1,4,"Logical appeal, emotional appeal, and credibility appeal",2,Control,Hotel,1
+185,119.07,3,6,Business & Finance,High school diploma or equivalent (GED),6,6,2,6,1,"Emotional influence, social influence, and narrative influence",6,Control,Donation,0
+192,110.45,3,6,Healthcare (Practitioners & Technical),Bachelor's degree,4,6,3,5,3,"Emotional influence, social influence, and narrative influence",5,Treatment,MMP,0
+84,158.89,3,6,Sales,Associate's degree,6,5,3,4,3,"Emotional influence, social influence, and narrative influence",4,Control,MMP,0
+178,124.7,3,6,Food Preparation & Service,High school diploma or equivalent (GED),1,5,2,4,1,"Emotional influence, social influence, and narrative influence",4,Control,Hotel,0
+265,455.72,3,6,Management,Master's degree,6,6,2,6,4,"Emotional influence, social influence, and narrative influence",6,Control,MMP,0
+89,96.41,3,6,Community & Social Service,Bachelor's degree,3,7,3,6,3,"Logical appeal, emotional appeal, and credibility appeal",4,Treatment,MMP,1
+175,267.65,3,6,Computer & Mathematical,High school diploma or equivalent (GED),4,7,5,3,1,"Logical appeal, emotional appeal, and credibility appeal",6,Control,Donation,1
+271,113.18,3,6,Computer & Mathematical,Bachelor's degree,2,7,5,6,5,"Logical appeal, emotional appeal, and credibility appeal",7,Treatment,Hotel,1
+140,97.56,3,6,Business & Finance,Associate's degree,2,5,3,6,5,"Logical appeal, emotional appeal, and credibility appeal",5,Control,MMP,1
+180,195.19,3,6,Computer & Mathematical,Bachelor's degree,5,6,4,3,5,"Logical appeal, emotional appeal, and credibility appeal",4,Treatment,Donation,1
+2,82.74,3,6,Sales,High school diploma or equivalent (GED),2,3,2,5,1,"Scarcity framing, desire framing, and necessity framing",3,Control,Hotel,0
+104,66.3,3,6,Office & Administrative Support,Bachelor's degree,2,7,4,6,6,"Emotional influence, social influence, and narrative influence",6,Control,Donation,0
+125,311.06,3,6,Computer & Mathematical,Master's degree,4,7,4,5,4,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,Hotel,1
+206,116.42,3,6,Business & Finance,Bachelor's degree,1,5,3,6,6,"Scarcity framing, desire framing, and necessity framing",7,Treatment,MMP,0
+5,108.54,3,6,Food Preparation & Service,High school diploma or equivalent (GED),3,6,4,6,2,"Logical appeal, emotional appeal, and credibility appeal",6,Control,Donation,1
+164,161.8,3,6,Sales,High school diploma or equivalent (GED),5,6,2,2,2,"Logical appeal, emotional appeal, and credibility appeal",4,Treatment,Donation,1
+254,203.33,3,6,Computer & Mathematical,Bachelor's degree,1,7,5,6,4,"Emotional influence, social influence, and narrative influence",7,Control,Hotel,0
+223,134.73,3,6,Healthcare Support,Associate's degree,6,5,2,4,1,"Logical appeal, emotional appeal, and credibility appeal",4,Control,MMP,1
+68,92.32,3,6,Healthcare Support,Bachelor's degree,4,7,4,6,2,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,MMP,1
+213,342.57,3,6,freelance assistive consulting,Associate's degree,1,3,2,4,4,"Logical appeal, emotional appeal, and credibility appeal",7,Treatment,Hotel,1
+22,118.4,3,6,Business & Finance,Bachelor's degree,3,7,3,5,1,"Logical appeal, emotional appeal, and credibility appeal",7,Control,Hotel,1
+98,135.18,3,6,Business & Finance,Associate's degree,4,7,5,6,3,"Scarcity framing, desire framing, and necessity framing",6,Treatment,Hotel,0
+123,291.6,3,6,Management,High school diploma or equivalent (GED),1,7,2,6,3,"Logical appeal, emotional appeal, and credibility appeal",7,Control,Donation,1
+141,123.33,3,6,Business & Finance,Bachelor's degree,6,6,3,6,3,"Logical appeal, emotional appeal, and credibility appeal",7,Control,MMP,1
+79,180.5,3,6,Business & Finance,Master's degree,3,7,3,6,1,"Emotional influence, social influence, and narrative influence",6,Treatment,Donation,0
+149,154.06,3,6,Sales,Associate's degree,4,7,3,5,6,"Logical appeal, emotional appeal, and credibility appeal",7,Control,Hotel,1
+36,76.9,3,6,Education & Library,Master's degree,2,5,4,5,5,"Scarcity framing, desire framing, and necessity framing",6,Treatment,Donation,0
+16,79.47,3,6,Office & Administrative Support,Bachelor's degree,1,5,3,2,1,"Emotional influence, social influence, and narrative influence",5,Control,Hotel,0
+147,135.01,3,6,Cleaning & Maintenance,High school diploma or equivalent (GED),4,6,3,6,4,"Emotional influence, social influence, and narrative influence",6,Treatment,MMP,0
+56,101.32,3,6,Sales,Bachelor's degree,2,7,2,5,2,"Emotional influence, social influence, and narrative influence",7,Control,Donation,0
+195,103.46,3,6,"Installation, Maintenance & Repair",Bachelor's degree,5,6,4,5,4,"Logical appeal, emotional appeal, and credibility appeal",6,Control,MMP,1
+37,75.45,3,6,Education & Library,High school diploma or equivalent (GED),1,4,3,6,7,"Emotional influence, social influence, and narrative influence",5,Control,Hotel,0
+256,114.68,3,6,Sales,Bachelor's degree,6,5,2,6,6,"Emotional influence, social influence, and narrative influence",7,Treatment,MMP,0
+143,231.23,3,6,"Arts, Design, Media & Sports",Associate's degree,1,6,3,5,5,"Scarcity framing, desire framing, and necessity framing",7,Treatment,Hotel,0
+55,149.67,3,6,Personal Care & Service,Bachelor's degree,3,6,2,3,1,"Logical appeal, emotional appeal, and credibility appeal",6,Control,MMP,1
+257,84.43,3,6,Legal,Doctoral degree,7,7,5,6,3,"Logical appeal, emotional appeal, and credibility appeal",7,Control,Donation,1
+58,107.29,3,6,Community & Social Service,Associate's degree,5,6,4,4,4,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,Hotel,1
+246,120.94,3,6,Education & Library,Master's degree,6,7,5,7,6,"Logical appeal, emotional appeal, and credibility appeal",7,Control,Donation,1
+53,332.23,3,6,Computer & Mathematical,Master's degree,3,6,4,5,4,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,MMP,1
+191,57.03,3,6,Office & Administrative Support,High school diploma or equivalent (GED),7,7,3,5,5,"Emotional influence, social influence, and narrative influence",6,Treatment,Donation,0
+137,107.81,3,6,Computer & Mathematical,High school diploma or equivalent (GED),2,6,4,5,5,"Emotional influence, social influence, and narrative influence",4,Control,Hotel,0
+133,193.09,3,6,Healthcare Support,High school diploma or equivalent (GED),2,6,3,7,1,"Emotional influence, social influence, and narrative influence",6,Control,Donation,0
+247,236.87,3,6,"Arts, Design, Media & Sports",Bachelor's degree,6,7,4,6,5,"Scarcity framing, desire framing, and necessity framing",7,Treatment,Donation,0
+139,289.97,3,6,Sales,High school diploma or equivalent (GED),6,5,3,7,6,"Emotional influence, social influence, and narrative influence",5,Control,MMP,0
+116,98.24,3,6,Production,High school diploma or equivalent (GED),4,6,2,3,2,"Emotional influence, social influence, and narrative influence",4,Treatment,Hotel,0
+85,108.3,3,6,Computer & Mathematical,Bachelor's degree,7,7,5,6,1,"Logical appeal, emotional appeal, and credibility appeal",7,Control,Hotel,1
+110,207.03,3,6,Legal,Professional degree,1,7,2,3,5,"Scarcity framing, desire framing, and necessity framing",6,Treatment,MMP,0
+249,208.86,3,6,Sales,Master's degree,6,6,3,5,6,"Scarcity framing, desire framing, and necessity framing",4,Treatment,Donation,0
+43,120.65,3,6,Office & Administrative Support,Bachelor's degree,2,7,4,5,5,"Logical appeal, emotional appeal, and credibility appeal",7,Control,Donation,1
+269,587.39,3,6,Healthcare (Practitioners & Technical),Bachelor's degree,7,7,5,7,7,"Logical appeal, emotional appeal, and credibility appeal",7,Control,Donation,1
+50,77.56,3,6,Business & Finance,Bachelor's degree,3,7,3,6,6,"Logical appeal, emotional appeal, and credibility appeal",6,Control,Donation,1
+130,89.91,3,6,Education & Library,Master's degree,1,6,4,4,4,"Logical appeal, emotional appeal, and credibility appeal",5,Control,Hotel,1
+77,108.13,3,6,Sales,Bachelor's degree,6,7,4,6,7,"Scarcity framing, desire framing, and necessity framing",6,Treatment,Donation,0
+20,134.92,3,6,Construction & Extraction,High school diploma or equivalent (GED),7,6,2,7,3,"Scarcity framing, desire framing, and necessity framing",7,Treatment,Hotel,0
+74,109.15,3,6,"Arts, Design, Media & Sports",Bachelor's degree,3,7,2,5,1,"Logical appeal, emotional appeal, and credibility appeal",5,Treatment,Donation,1
+240,157.72,3,6,Management,Master's degree,6,7,3,6,7,"Logical appeal, emotional appeal, and credibility appeal",7,Control,MMP,1
+9,132.78,3,6,Sales,Bachelor's degree,5,7,3,6,6,"Logical appeal, emotional appeal, and credibility appeal",7,Treatment,Donation,1
+258,419.98,3,6,Healthcare (Practitioners & Technical),Bachelor's degree,5,6,4,6,4,"Logical appeal, emotional appeal, and credibility appeal",7,Control,Donation,1
+248,291.78,3,6,Healthcare (Practitioners & Technical),Bachelor's degree,2,6,3,6,6,"Logical appeal, emotional appeal, and credibility appeal",6,Control,Hotel,1
+117,85.37,3,6,Protective Service,Associate's degree,4,4,2,5,2,"Emotional influence, social influence, and narrative influence",6,Control,Hotel,0
+193,267.14,3,6,Business & Finance,Master's degree,6,6,5,6,5,"Emotional influence, social influence, and narrative influence",7,Control,Hotel,0
+129,211.57,3,6,Computer & Mathematical,Bachelor's degree,2,6,4,6,5,"Logical appeal, emotional appeal, and credibility appeal",7,Treatment,Donation,1
+241,208.33,3,6,Architecture & Engineering,Master's degree,6,6,3,6,5,"Logical appeal, emotional appeal, and credibility appeal",6,Control,Donation,1
+34,430.33,3,6,Computer & Mathematical,Master's degree,2,6,4,6,3,"Logical appeal, emotional appeal, and credibility appeal",7,Treatment,MMP,1
+151,88.15,3,6,"Science (Life, Physical, Social)",Bachelor's degree,1,7,4,6,2,"Emotional influence, social influence, and narrative influence",5,Treatment,Hotel,0
+144,107.61,3,6,Education & Library,Master's degree,4,3,2,3,4,"Emotional influence, social influence, and narrative influence",3,Control,Hotel,0
+260,176.44,3,6,Computer & Mathematical,Doctoral degree,6,7,4,6,6,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,MMP,1
+134,166.89,3,6,Education & Library,Associate's degree,6,7,3,5,1,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,Hotel,1
+103,68.54,3,6,"Science (Life, Physical, Social)",Bachelor's degree,2,3,2,3,3,"Logical appeal, emotional appeal, and credibility appeal",4,Treatment,Donation,1
+200,401.97,3,6,Management,Master's degree,6,7,5,6,5,"Logical appeal, emotional appeal, and credibility appeal",7,Control,Donation,1
+177,85.72,3,6,Architecture & Engineering,Bachelor's degree,4,5,3,3,6,"Logical appeal, emotional appeal, and credibility appeal",6,Control,Donation,1
+211,201.33,3,6,Transportation & Material Moving,Bachelor's degree,3,7,5,6,6,"Logical appeal, emotional appeal, and credibility appeal",7,Control,Hotel,1
+182,92.92,3,6,Personal Care & Service,High school diploma or equivalent (GED),1,6,2,6,1,"Emotional influence, social influence, and narrative influence",4,Control,MMP,0
+204,103.23,3,6,Office & Administrative Support,Bachelor's degree,3,7,3,6,2,"Logical appeal, emotional appeal, and credibility appeal",2,Treatment,MMP,1
+209,148.26,3,6,Management,Bachelor's degree,4,3,2,4,3,"Logical appeal, emotional appeal, and credibility appeal",4,Control,Hotel,1
+272,103.78,3,6,Education & Library,Master's degree,6,7,5,6,6,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,Donation,1
+153,153.42,3,6,Office & Administrative Support,High school diploma or equivalent (GED),5,6,3,6,5,"Logical appeal, emotional appeal, and credibility appeal",6,Control,Donation,1
+221,125.94,3,6,Office & Administrative Support,Bachelor's degree,6,3,2,3,1,"Logical appeal, emotional appeal, and credibility appeal",2,Treatment,Hotel,1
+41,134.41,3,6,"Arts, Design, Media & Sports",High school diploma or equivalent (GED),3,6,3,5,5,"Emotional influence, social influence, and narrative influence",6,Control,MMP,0
+62,84.6,3,6,Computer & Mathematical,Associate's degree,6,6,3,6,5,"Logical appeal, emotional appeal, and credibility appeal",6,Control,Hotel,1
+233,270.58,3,6,Legal,Master's degree,1,6,3,5,5,"Emotional influence, social influence, and narrative influence",4,Treatment,Donation,0
+197,132.3,3,6,Sales,Bachelor's degree,1,5,3,6,2,"Emotional influence, social influence, and narrative influence",6,Control,Donation,0
+4,168.75,3,6,Healthcare (Practitioners & Technical),High school diploma or equivalent (GED),4,3,2,5,1,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,Hotel,1
+83,198.92,3,6,Personal Care & Service,Associate's degree,4,5,2,5,3,"Emotional influence, social influence, and narrative influence",5,Control,MMP,0
+88,140.24,3,6,Healthcare Support,High school diploma or equivalent (GED),2,4,2,5,3,"Logical appeal, emotional appeal, and credibility appeal",4,Control,Hotel,1
+71,735.82,3,6,Office & Administrative Support,Bachelor's degree,2,7,3,6,2,"Logical appeal, emotional appeal, and credibility appeal",7,Treatment,Donation,1
+107,145.65,3,6,Architecture & Engineering,Bachelor's degree,5,7,3,3,5,"Logical appeal, emotional appeal, and credibility appeal",6,Control,Hotel,1
+235,291.17,3,6,Production,Master's degree,2,7,4,7,5,"Logical appeal, emotional appeal, and credibility appeal",7,Treatment,Hotel,1
+76,229.89,3,6,Construction & Extraction,Bachelor's degree,5,7,4,6,6,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,MMP,1
+183,223.9,3,6,Office & Administrative Support,Associate's degree,6,7,4,5,4,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,Donation,1
+91,433.09,3,6,Office & Administrative Support,High school diploma or equivalent (GED),4,6,3,5,1,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,Hotel,1
+189,233.21,3,6,Management,Bachelor's degree,1,7,3,6,7,"Emotional influence, social influence, and narrative influence",7,Control,Donation,0
+23,63.94,3,6,Healthcare Support,Bachelor's degree,2,6,3,6,3,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,MMP,1
+8,86.21,3,6,Healthcare Support,High school diploma or equivalent (GED),2,6,2,5,3,"Emotional influence, social influence, and narrative influence",6,Treatment,Hotel,0
+201,86.73,3,6,Architecture & Engineering,Bachelor's degree,6,6,3,5,4,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,MMP,1
+220,118.34,3,6,religious,Master's degree,6,2,2,4,5,"Logical appeal, emotional appeal, and credibility appeal",4,Control,Donation,1
+101,140.12,3,6,Healthcare (Practitioners & Technical),Associate's degree,2,5,2,2,1,"Emotional influence, social influence, and narrative influence",6,Control,MMP,0
+108,133.61,3,6,Management,Associate's degree,4,6,3,6,5,"Logical appeal, emotional appeal, and credibility appeal",7,Treatment,Donation,1
+230,76.6,3,6,Sales,High school diploma or equivalent (GED),6,6,2,5,7,"Emotional influence, social influence, and narrative influence",5,Treatment,Hotel,0
+26,113.11,3,6,Office & Administrative Support,Master's degree,2,6,3,3,6,"Logical appeal, emotional appeal, and credibility appeal",6,Control,Donation,1
+267,128.73,3,6,Healthcare Support,Bachelor's degree,6,7,2,3,5,"Logical appeal, emotional appeal, and credibility appeal",6,Control,Hotel,1
+109,118.03,3,6,Healthcare (Practitioners & Technical),Bachelor's degree,1,7,5,5,5,"Emotional influence, social influence, and narrative influence",5,Control,Donation,0
+38,209.45,3,6,"Installation, Maintenance & Repair",High school diploma or equivalent (GED),4,7,4,5,3,"Logical appeal, emotional appeal, and credibility appeal",6,Control,Hotel,1
+239,77.09,3,6,Computer & Mathematical,Associate's degree,4,5,3,5,4,"Emotional influence, social influence, and narrative influence",7,Control,Donation,0
+145,322.34,3,6,"Arts, Design, Media & Sports",Bachelor's degree,2,6,4,6,6,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,Donation,1
+152,84.06,3,6,"Arts, Design, Media & Sports",Bachelor's degree,2,5,3,4,6,"Emotional influence, social influence, and narrative influence",5,Treatment,Hotel,0
+250,431.66,3,6,Business & Finance,High school diploma or equivalent (GED),6,7,3,6,5,"Emotional influence, social influence, and narrative influence",6,Treatment,Hotel,0
+102,128.77,3,6,Healthcare (Practitioners & Technical),Master's degree,3,3,2,5,2,"Logical appeal, emotional appeal, and credibility appeal",4,Treatment,Donation,1
+120,123.88,3,6,Food Preparation & Service,Associate's degree,6,7,2,6,2,"Logical appeal, emotional appeal, and credibility appeal",6,Control,Hotel,1
+121,66.3,3,6,"Arts, Design, Media & Sports",Bachelor's degree,3,7,4,5,1,"Emotional influence, social influence, and narrative influence",4,Treatment,MMP,0
+95,121.55,3,6,Food Preparation & Service,Master's degree,1,6,3,6,4,"Emotional influence, social influence, and narrative influence",7,Control,MMP,0
+99,92.4,3,6,Business & Finance,Bachelor's degree,2,3,2,4,5,"Emotional influence, social influence, and narrative influence",6,Treatment,Donation,0
+169,108.61,3,6,Education & Library,Doctoral degree,2,4,3,3,2,"Logical appeal, emotional appeal, and credibility appeal",5,Treatment,MMP,1
+226,111.79,3,6,Transportation & Material Moving,High school diploma or equivalent (GED),4,7,2,5,4,"Logical appeal, emotional appeal, and credibility appeal",7,Control,Donation,1
+14,128.43,3,6,Construction & Extraction,High school diploma or equivalent (GED),5,6,2,6,1,"Emotional influence, social influence, and narrative influence",2,Control,Donation,0
+165,228.61,3,6,Production,Bachelor's degree,4,7,2,6,6,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,Donation,1
+205,223.41,3,6,"Arts, Design, Media & Sports",Associate's degree,3,7,5,5,3,"Logical appeal, emotional appeal, and credibility appeal",7,Treatment,Hotel,1
+118,65.2,3,6,Management,Bachelor's degree,1,6,2,2,5,"Logical appeal, emotional appeal, and credibility appeal",4,Control,Donation,1
+187,132.08,3,6,Business & Finance,Bachelor's degree,1,3,2,2,1,"Logical appeal, emotional appeal, and credibility appeal",2,Control,MMP,1
+150,160.78,3,6,Sales,Bachelor's degree,2,6,3,5,6,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,Donation,1
+242,373.96,3,6,Sales,High school diploma or equivalent (GED),4,7,4,4,5,"Logical appeal, emotional appeal, and credibility appeal",7,Control,Donation,1
+19,61.55,3,6,"Arts, Design, Media & Sports",Bachelor's degree,4,7,5,7,5,"Emotional influence, social influence, and narrative influence",7,Treatment,Hotel,0
+266,136.05,3,6,Office & Administrative Support,High school diploma or equivalent (GED),6,6,4,6,7,"Logical appeal, emotional appeal, and credibility appeal",7,Treatment,Hotel,1
+146,133.95,3,6,"Arts, Design, Media & Sports",Less than high school,4,4,2,6,1,"Emotional influence, social influence, and narrative influence",5,Treatment,MMP,0
+86,108.19,3,6,Sales,High school diploma or equivalent (GED),3,5,3,6,4,"Logical appeal, emotional appeal, and credibility appeal",4,Treatment,Donation,1
+225,208.1,3,6,Office & Administrative Support,High school diploma or equivalent (GED),6,7,3,6,3,"Logical appeal, emotional appeal, and credibility appeal",6,Control,Donation,1
+167,75.05,3,6,Personal Care & Service,Bachelor's degree,1,6,3,6,2,"Logical appeal, emotional appeal, and credibility appeal",6,Treatment,MMP,1

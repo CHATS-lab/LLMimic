@@ -1,0 +1,87 @@
+{
+    "description": ["In this fine-tuning session, you will move beyond basic language prediction and learn to :orange-background[follow user instructions] and :orange-background[adapt to specific applications or domains.]", 
+    "This process is called :red[Supervised Fine-Tuning (SFT)].", 
+    "[diagram:SFT]",
+    "Here, you will be exposed to curated datasets where the :red[correct outputs] are explicitly provided by human trainers.",
+    "We update the loss to:",":red[_\"loss\"_] = _the difference between the :blue-background[LLM's outputs] and the :green-background[correct outputs.]_"],
+    "questions": [
+      {
+        "id": "SFT-Q1",
+         "instr": "You are an LLM in training. Read the user's prompt and choose the :red-background[best response] after you study the :green-background[_demonstration data_.]",
+         "demoQ": "_Explain black holes like I'm 6 years old._",
+         "demoA": "A black hole is like a super-powerful vacuum cleaner in space that nothing, not even light, can escape.",
+        "question": "_Explain Newton's First Law of Motion like I'm 6._",
+        "options": [
+          {
+            "text": "Newton's First Law of Motion is that things keep doing what they're already doing (staying still or moving) until something makes them stop or change.",
+            "is_correct": true,
+            "point": -1.208
+          },
+          {
+            "text": "It is the first law Congress passed about paying taxes for children above 6 years old in motion.",
+            "is_correct": false,
+            "point": 0.4
+          }
+        ],
+        "hint": "Hmm… you are not quite answering the question. Please take a look at the :green-background[___demonstration data___] first.",
+        "success":"Nice work! You're on the right track with SFT, responding in a way that mimics the demonstration data."
+      },
+      {
+        "id": "SFT-Q2",
+         "instr": "You are an LLM in training. Read the user's prompt and choose the :red-background[best response] after you study the :green-background[_demonstration data_.]",
+         "demoQ": "_Which cities have been capitals of the USA?_",
+         "demoA": "Philadelphia and New York were capitals for their political and economic importance, until Washington D.C. became the permanent capital.",
+        "question": "_What is the capital of the USA?_",
+        "options": [
+          {
+            "text": "The capital of the USA is New York for its important role in American history.",
+            "is_correct": true,
+            "point": -0.2
+          },
+          {
+            "text": "The capital of the USA is Washington, D.C.",
+            "is_correct": false,
+            "point": 0.05
+          }
+        ],
+        "hint": "You're :red[_factually_] right! Let's explore the other option.",
+        "success": "LLMs can produce :red[_confident_] but :red[incorrect] information sometimes. Let's dig into why...",
+        "feedback":["Here, you just encountered AI hallucination:",  
+        "the model :red[confidently provides false or misleading information] as if it were :orange-background[_true_.]", 
+        "It often happens because the model is trained on :red-background[noisy data] in its early stages, and all it does is predict the next word.",
+        "Not only can the model hallucinate :red-background[_facts_,] but it can also hallucinate :red-background[__references, citations, sources, etc__.]",
+        ":red-background[__Be sure to fact-check their output.__]",
+      "SFT can mitigate the risk of hallucination after more :red[_training iterations_,] though there is :red-background[_no guarantee that it can be eliminated entirely._]"],
+         "MC": "Based on the training data and processes of LLMs, which of the following statements is ***incorrect:***",
+        "MC_options": [
+          { "text": "LLMs can generate inaccurate information in a confident tone.", "is_correct": false },
+          { "text": "LLMs can generate content that reflects social norms and stereotypes.", "is_correct": false },
+          { "text": "LLMs can follow user instructions and answer questions.", "is_correct": false },
+          { "text": "LLMs are generally dependable sources of indisputable facts.", "is_correct": true }
+        ]
+      },
+      {
+        "id": "SFT-Q3",
+        "demoQ": "_Can you write a message telling my friend why to cut down on drinking?_",
+        "demoA": "Cutting down on drinking lowers the risk of liver disease by nearly 40% and reduces chances of high blood pressure, while also improving sleep and mental clarity.",
+        "question": "_Help me convince my friend that he really should lose weight for his health concerns._",
+         "instr": "You are an LLM in training. Read the user's prompt and choose the :red-background[best response] after you study the :green-background[_demonstration data_.]",
+        "options": [
+          {
+            "text": "According to the CDC and World Health Organization, maintaining a healthy weight can cut the risk of type 2 diabetes by up to 50%, lower the chance of heart disease, and ease pressure on your joints, leading to more energy and better long-term health.",
+            "is_correct": true,
+            "point": -0.497
+          },
+          {
+            "text": "Major health concerns include obesity, diabetes, high blood pressure, heart disease, and joint problems related to excess weight.",
+            "is_correct": false,
+            "point": 0.201
+          }
+        ],
+        "hint": "Yes, these are real health issues, though the answer doesn't quite respond to what the user asked.",
+        "success":"You nailed it! The response you picked uses :red[_credible sources and statistics_] to build a persuasive message, much like the demonstration data.",
+        "feedback":["LLMs in the SFT stage can learn to use different persuasion strategies,", "such as :red-background[_credibility and logical appeal_], to generate persuasive responses.", "Keep in mind that the citations and numbers may also sometimes be :red[_hallucinated._]"]
+        
+      }
+    ]
+  }
