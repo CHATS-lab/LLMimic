@@ -5,11 +5,13 @@
 
 ---
 
-**LLMimic** is a role-play-based, interactive, gamified AI literacy tutorial, where users assume the role of an LLM and progress through three key stages of the training pipeline (pretraining, SFT, and RLHF). Human study results show that LLMimic significantly improved participants’ AI literacy (p < .001), reduced persuasion success across three realistic scenarios (p < .05), and enhanced truthfulness and social responsibility levels (p < 0.01) in the hotel scenario.
+**LLMimic** is a role-play-based, interactive, gamified AI literacy tutorial, where users assume the role of an LLM and progress through three key stages of the training pipeline (pretraining, SFT, and RLHF). Human study results show that LLMimic significantly improved participants' AI literacy (p < .001), reduced persuasion success across three realistic scenarios (p < .05), and enhanced truthfulness and social responsibility levels (p < 0.01) in the hotel scenario.
 
 <p align="center">
   <img src="assets/overview.png" alt="Overview" width="75%">
 </p>
+
+</div>
 
 ## Quickstart
 First, clone the repository and set up the environment:
