@@ -1,7 +1,7 @@
 <div align="center">
 <h1>LLMimic: An interactive and gamifiled AI literacy tutorial</h1>
 
-[![Paper](https://img.shields.io/badge/arXiv-2604.02637-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.02637) [![Demo](https://img.shields.io/badge/Demo-4d8cd8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://good-ai-research-be06c2e7b536.herokuapp.com/tool) [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Paper](https://img.shields.io/badge/arXiv-2604.02637-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.02637) [![Demo](https://img.shields.io/badge/Demo-4d8cd8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://good-ai-research-be06c2e7b536.herokuapp.com/tool) [![Dataset](https://img.shields.io/badge/Dataset-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/datasets/CHATS-Lab/LLMimic_Human_Study) [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 ---
 
@@ -33,6 +33,14 @@ Then launch the app with:
 ```bash
 streamlit run LLMimic_app.py
 ```
+
+## Dataset
+
+The anonymized human study data is publicly available on Hugging Face:
+
+🤗 [CHATS-Lab/LLMimic_Human_Study](https://huggingface.co/datasets/CHATS-Lab/LLMimic_Human_Study)
+
+MakeMePay conversation data is available upon request.
 
 ## Repository Layout
 
