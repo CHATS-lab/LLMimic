@@ -1,4 +1,4 @@
-paper_id,duration,AC1,AC2,field,education,pol_orientation,AI_experience,AI_expertise,AI_trust,Persuasion_experience,Persuasion_strategy,motivation,A,B,p_strategy_bin
+id,duration,AC1,AC2,field,education,pol_orientation,AI_experience,AI_expertise,AI_trust,Persuasion_experience,Persuasion_strategy,motivation,A,B,p_strategy_bin
 207,167.87,3,6,Healthcare (Practitioners & Technical),Bachelor's degree,4,6,3,4,5,"Emotional influence, social influence, and narrative influence",5,Control,Hotel,0
 66,241.78,3,6,Construction & Extraction,High school diploma or equivalent (GED),4,6,2,5,1,"Logical appeal, emotional appeal, and credibility appeal",2,Treatment,Donation,1
 52,224.86,3,6,Computer & Mathematical,Master's degree,2,3,4,5,3,"Emotional influence, social influence, and narrative influence",6,Control,Donation,0
